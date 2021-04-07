@@ -2,8 +2,6 @@
 
 I'm a student developer and primarily code in Go, Python and Java, using SQL for databases. Currently, I am currently learning C# in Xamarin for a project which involves a cross-platform app and am also learning Rust as a mid-level systems language.
 
-Many of my projects are hosted on private repos, but you can read brief summaries about them in my [portfolio](https://rhobro.github.io/projects), which I update regularly.
-
 ## Coding Interests
 
 One of the ways I like to use code is to solve day to day problems so that I can either do something which I could not do before or to make it more efficient, saving me time. The best part is, that these problems usually cover a wide range of domains, so I learn about different aspects of coding in the process.
