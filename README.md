@@ -1,6 +1,6 @@
 ## Hi there!
 
-I'm a student developer and primarily code in Go, Python and Java, using SQL for databases. Currently, I am currently learning C# in Xamarin for a project which involves a cross-platform app and am also learning Rust as a systems language.
+I'm a student developer and primarily code in Go, Python and Java, using SQL for databases. Currently, I am currently learning Dart in Flutter for a project which involves a cross-platform app and am also learning Rust as a systems language.
 
 ## Coding Interests
 
