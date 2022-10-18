@@ -1,4 +1,4 @@
-You know that all the good projects are on private repositories. Nevertheless, here's some stuff I've made years ago.
+You know that all the good projects are on private repositories. Nevertheless, here's a recap of those and the ones I'm working on.
 
 ## Good projects:
 
