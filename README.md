@@ -11,7 +11,7 @@ System allowing me to play sound from files or microphone across multiple comput
 Rust crate which interfaces to a decentralised crypto exchange. Using whole shebang in cryptography because it's a Dex. You can guess what I want to use it for :)
 
 Neighbour's cat keeps trying to get into the house. Actually got in one time and hid inside the sofa. Mum's allergic. Making a computer-vision powered cat deterrent which uses sound.
-(_Update: cat got put down :( so stopped development_)
+(_Update: cat died :( so stopped development_)
 
 Rapid proxy-switiching privacy alternative to Tor. Used free online proxy lists with a testing system.
 
@@ -21,4 +21,4 @@ Kahoot bot :) (and other random experiments like for 2048, Wordle, rider, pianot
 
 Interface to a service allowing me to store unlimited amounts of MP4 video online and stream it anywhere for free anonymously. You can see why I wouldn't release that.
 
-https://latinvocab.herokuapp.com/
+https://latinvocab.herokuapp.com/ - CLC Latin vocab tester, but Heroku free dyno plan stopped?
